@@ -3,17 +3,14 @@ def third_challenge
    :montague => {
       :patriarch => {
         :name => "Lord Montague",
-        :age => "53"
-      },
+        :age => "53"},
       :matriarch => {
         :name => "Lady Montague",
-        :age => "54"
-        },
+        :age => "54"},
       :hero => {
-        :name => "Romeo"
-        :age => "15"
-        :statue => "alive"
-        },
+        :name => "Romeo",
+        :age => "15",
+        :statue => "alive"},
       :hero_friends => []
    }, 
    :capulet => {
@@ -27,7 +24,7 @@ def third_challenge
         },
       :heroine => {
         :name => "Juliet",
-        :age => "15"
+        :age => "15",
         :statue => "alive"
         },
       :heroine_friends => []
